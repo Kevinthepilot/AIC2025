@@ -1,2 +1,6 @@
 # AIC2025
-TEAMATE
+Teammate
+- eggcognito
+- kevin
+- lemonpro
+- wulin
